@@ -16,7 +16,7 @@ Software Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/ACER-ALG-ED1C24?style=for-the-badge"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 
-
+![Vinoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VINOJ-DEV&hide=contribs,prs&show_icons=true&theme=radical)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/VIN0J?theme=dark&font=Mina&ext=heatmap)
 
